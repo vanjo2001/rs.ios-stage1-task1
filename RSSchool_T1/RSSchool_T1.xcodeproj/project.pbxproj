@@ -123,11 +123,11 @@
 		BDBA866022419F4E00AFC095 /* RSSchool_T1Tests */ = {
 			isa = PBXGroup;
 			children = (
-				25C845C42417CE12008FC588 /* BillCounterTests.m */,
-				25C845C22417CE12008FC588 /* HighestPalindromeTests.m */,
-				25C845C32417CE12008FC588 /* MiniMaxSumTests.m */,
-				25C845C12417CE12008FC588 /* StringParseTests.m */,
 				25C845C52417CE12008FC588 /* T1ArrayTests.m */,
+				25C845C32417CE12008FC588 /* MiniMaxSumTests.m */,
+				25C845C42417CE12008FC588 /* BillCounterTests.m */,
+				25C845C12417CE12008FC588 /* StringParseTests.m */,
+				25C845C22417CE12008FC588 /* HighestPalindromeTests.m */,
 				BDBA866322419F4E00AFC095 /* Info.plist */,
 			);
 			path = RSSchool_T1Tests;
